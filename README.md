@@ -3,14 +3,7 @@
 A new Flutter project.
 
 ## Getting Started
+this project responive with all patform mobile , teblet  and desktop
 
-This project is a starting point for a Flutter application.
+![Screenshot 2024-05-07 050352](https://github.com/Hamrit-Abderrahim/responsive_dash_board/assets/49122679/fff360c1-d03f-44df-8552-c73e101e61c5)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
